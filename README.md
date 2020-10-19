@@ -1,6 +1,5 @@
 Go Music Bot 
 
+FFmpeg and Disgord
 
-By: KidDuarda.
-
-Ffmpeg and Disgord
+> By: KidDuarda.
